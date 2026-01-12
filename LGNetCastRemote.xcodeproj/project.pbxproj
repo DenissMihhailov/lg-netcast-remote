@@ -10,9 +10,22 @@
 		FFD4001A2F143EC600202327 /* LGNetCastRemote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LGNetCastRemote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		FFD400292F1440C500202327 /* Exceptions for "LGNetCastRemote" folder in "LGNetCastRemote" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = FFD400192F143EC600202327 /* LGNetCastRemote */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		FFD4001C2F143EC600202327 /* LGNetCastRemote */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				FFD400292F1440C500202327 /* Exceptions for "LGNetCastRemote" folder in "LGNetCastRemote" target */,
+			);
 			path = LGNetCastRemote;
 			sourceTree = "<group>";
 		};
@@ -251,8 +264,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8DR4RX7ATA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LGNetCastRemote/Info.plist;
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "This app connects to your LG TV on local Wi-Fi to act as a remote control.\n";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -282,8 +298,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8DR4RX7ATA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LGNetCastRemote/Info.plist;
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "This app connects to your LG TV on local Wi-Fi to act as a remote control.\n";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
