@@ -53,6 +53,7 @@ Helpful tips and reminders are shown directly in the app during setup.
 
 ## Demo
 
-**Video: controlling the TV in real time**
+**Real-time TV control**
 
-[Watch demo](assets/demo.mp4)
+https://github.com/user-attachments/assets/cd4b7240-cdc3-4783-8922-c4665dd76d06
+
